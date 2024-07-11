@@ -7,11 +7,13 @@ const SkillList = [
   "Gatsby.js",
   "strapi",
   "firebase",
-  "generative AI",
   "wireframing",
   "SEO",
   "framer motion",
   "sanity",
+  "react ts",
+  "react js",
+  "mongodb",
 ];
 
 const Skills = () => {
